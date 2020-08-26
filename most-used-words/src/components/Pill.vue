@@ -7,43 +7,43 @@
 
 <script>
 export default {
-    props: ['name', 'amount']
-}
+    props: ["name", "amount"]
+};
 </script>
 
 <style>
-    .pill {
-        margin: 10px;
-        height: 55px;
-        border-radius: 30px;
+.pill {
+    margin: 10px;
+    height: 55px;
+    border-radius: 30px;
 
-        background-color: #dc143c;
-        color: #fff;
-        font-size: 1.3rem;
-        font-weight: bold;
+    background-color: #dc143c;
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: bold;
 
-        display: flex;
-        align-items: center;
-    }
+    display: flex;
+    align-items: center;
+}
 
-    .pill .name {
-        margin-left: 15px;
-    }
+.pill .name {
+    margin-left: 15px;
+}
 
-    .pill .amount {
-        margin: 10px;
-        padding: 5px;
-        height: 35px;
-        width: 35px;
-        border-radius: 18px;
+.pill .amount {
+    margin: 10px;
+    padding: 5px;
+    height: 35px;
+    width: 35px;
+    border-radius: 18px;
 
-        background-color: #fff;
-        color: #dc143c;
+    background-color: #fff;
+    color: #dc143c;
 
-        font-size: 14px;
+    font-size: 14px;
 
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 </style>
