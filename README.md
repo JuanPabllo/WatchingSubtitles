@@ -1,4 +1,4 @@
-<div align="center">
+<div width="200" align="center">
 
 ![](.github/docs/img/principal.png)
 
