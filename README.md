@@ -1,4 +1,4 @@
-<div width="200" align="center">
+<div align="center">
 
 ![](.github/docs/img/principal.png)
 
@@ -10,7 +10,11 @@
 </p>
 <p align="center"> Done at Electron and Vue.Js </p>
 
-### Getting Started 🚀
+## Exemplo:
+
+![](.github/docs/img/principal2.png)
+
+## Getting Started 🚀
 
 #### Requirements
 
